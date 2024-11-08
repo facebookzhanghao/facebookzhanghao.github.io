@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	「机场网址导航」的评论	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	「BBLink机场官网地址」的评论	</title>
+	<atom:link href="/bblink/feed/" rel="self" type="application/rss+xml" />
+	<link>/bblink/</link>
 	<description></description>
-	<lastBuildDate>Fri, 08 Nov 2024 12:46:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Nov 2024 12:43:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

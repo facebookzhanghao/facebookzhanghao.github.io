@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	「机场网址导航」的评论	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	「搬瓦工机场官方网址」的评论	</title>
+	<atom:link href="/bandwagonhost/feed/" rel="self" type="application/rss+xml" />
+	<link>/bandwagonhost/</link>
 	<description></description>
-	<lastBuildDate>Fri, 08 Nov 2024 12:46:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Nov 2024 12:42:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
